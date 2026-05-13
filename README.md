@@ -27,7 +27,7 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
   <tr>
     <td align="center">
       <a href="">
-        <img src="screenshot3.png" width="400"/>
+        <img src="https://github.com/user-attachments/assets/608d625e-4f02-40f1-9125-d656924ae307" width="400"/>
         <br/>Quantifying Vegetation-Climate Interactions
       </a>
     </td>
