@@ -17,8 +17,8 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
       </a>
     </td>
     <td align="center">
-      <a href="">
-        <img src="screenshot2.png" width="400"/>
+      <a href="https://github.com/EdwinLi09/Travelers-Motorcycle-Insurance-Retention-Analysis">
+        <img src="https://github.com/user-attachments/assets/3de5f939-bdb7-4831-a6f6-6eea179850f2" width="400"/>
         <br/>Travelers Motorcycle Insurance Retention Analysis 
       </a>
     </td>
