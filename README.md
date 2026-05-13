@@ -19,7 +19,7 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
     <td align="center">
       <a href="https://github.com/EricAsante3/AI-Content-Moderation-System">
         <img src="screenshot2.png" width="400"/>
-        <br/>AI Content Moderation System
+        <br/>Travelers Motorcycle Insurance Retention Analysis 
       </a>
     </td>
   </tr>
@@ -27,13 +27,13 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
     <td align="center">
       <a href="https://github.com/EricAsante3/Real-Time-TierMaker">
         <img src="screenshot3.png" width="400"/>
-        <br/>Real Time Multiplayer Tier List Document Editor
+        <br/>Quantifying Vegetation-Climate Interactions
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/EricAsante3/Full-Stack-Pet-Adoption">
         <img src="screenshot4.png" width="400"/>
-        <br/>Full Stack Pet Adoption Web Application
+        <br/>Tournament Bracket Predictor Mobile Application
       </a>
     </td>
   </tr>
