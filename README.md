@@ -12,7 +12,7 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
   <tr>
     <td align="center">
       <a href="https://github.com/EdwinLi09/Predictive-Hydrogen-Leak-Detection">
-        <img src="screenshot1.png" width="400"/>
+        <img src="ANN_Results.png" width="400"/>
         <br/>Predictive Hydrogen Leak Detection
       </a>
     </td>
