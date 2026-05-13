@@ -32,8 +32,8 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
       </a>
     </td>
     <td align="center">
-      <a href="">
-        <img src="screenshot4.png" width="400"/>
+      <a href="https://github.com/EdwinLi09/Tournament-Bracket-Predictor">
+        <img src="https://github.com/user-attachments/assets/cebbf720-f76a-47bb-9bc7-bba638cee381" width="400"/>
         <br/>Tournament Bracket Predictor Mobile Application
       </a>
     </td>
