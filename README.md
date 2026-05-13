@@ -11,9 +11,9 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/EricAsante3/UCONN-Course-Scheduler">
+      <a href="https://github.com/EdwinLi09/Predictive-Hydrogen-Leak-Detection">
         <img src="screenshot1.png" width="400"/>
-        <br/>UCONN Course Scheduler
+        <br/>Predictive Hydrogen Leak Detection
       </a>
     </td>
     <td align="center">
