@@ -1,5 +1,7 @@
-Obtained Bachelor of Science at the University of Connecticut in Computer Science with a concentration in Artificial Intelligence, and minors in Mathematics and Business Analytics.
+Graduated from the University of Connecticut where I earned a Bachelor of Science degree in Computer Science with a specialization in Artificial Intelligence and completed Mathematics and Business Analytics as minors. 
 
-Brings hands-on experience in machine learning, data science, and research, with a track record of building predictive models and end-to-end data pipelines across academic, internship, and industry projects.
+Worked with data models and machine learning, where I have developed predictive models and completed data pipelines from start to manage and gather data from academic projects, internship work experience, and industry. 
 
-Skilled in Python and SQL, with the ability to clean and process large datasets, design and train neural networks, and turn raw data into clear, actionable insights using tools like TensorFlow, Pandas, Scikit-Learn, and Tableau.
+Proficient with Python and SQL and can utilize both to cleanse and prepare large amounts of data for user and can develop and train neural networks from data, including transforming raw data into well-defined insights that were delivered through the use of a variety of machine learning libraries including Tensorflow, Pandas, Scikit-learn, and Tableau. 
+
+
