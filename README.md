@@ -1,4 +1,4 @@
-## About Edwin Li 
+# About Edwin Li 
 Graduated from the University of Connecticut where I earned a Bachelor of Science degree in Computer Science with a specialization in Artificial Intelligence and completed Mathematics and Business Analytics as minors. 
 
 Worked with data models and machine learning, where I have developed predictive models and completed data pipelines from start to manage and gather data from academic projects, internship work experience, and industry. 
@@ -7,7 +7,7 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 
 <ins>***Hobbies: Sports, Gym, Hiking***</ins>
 
-## Projects
+# Projects
 
 <table>
   <tr>
@@ -41,5 +41,5 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 </table>
 
 
-## Fun Facts
+# Fun Facts
 Sports, Gym, Hiking
