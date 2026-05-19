@@ -39,3 +39,9 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
     </td>
   </tr>
 </table>
+
+# Technical Skills 
+
+**Languages:** Python, SQL, JavaScript
+**Libraries/Frameworks:** TensorFlow, Pandas, NumPy, Matplotlib, Scikit-Learn, SciPy, FastDTW, Xarray, PyProj, GDAL, Turtle Graphics, React Native
+**Tools/Documentation:** Tableau, Microsoft Office (Excel, Word, PowerPoint), Visual Studio Code, PowerShell, GitHub, WordPress, Jupyter Notebook, High-Performance Computing (HPC), MySQL Workbench, DBeaver
