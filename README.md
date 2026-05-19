@@ -11,7 +11,11 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 
 <ins>***Fun Facts: Sports, Gym, Hiking***</ins>
 
+<div align="center">
+
 # Projects
+
+</div>
 
 <table>
   <tr>
