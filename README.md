@@ -5,7 +5,7 @@ Worked with data models and machine learning, where I have developed predictive 
 
 Proficient with Python and SQL and can utilize both to cleanse and prepare large amounts of data for user and can develop and train neural networks from data, including transforming raw data into well-defined insights that were delivered through the use of a variety of machine learning libraries including Tensorflow, Pandas, and Scikit-learn.
 
-<ins>***Hobbies: Sports, Gym, Hiking***</ins>
+<ins>***Fun Facts: Sports, Gym, Hiking***</ins>
 
 # Projects
 
@@ -39,7 +39,3 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
     </td>
   </tr>
 </table>
-
-
-# Fun Facts
-Sports, Gym, Hiking
