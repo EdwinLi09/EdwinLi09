@@ -1,4 +1,8 @@
-<h1 align="center">Edwin Li</h1>
+<div align="center">
+
+# Edwin Li 
+
+</div>
 Graduated from the University of Connecticut, obtained a Bachelor of Science degree in Computer Science with a specialization in Artificial Intelligence and completed Mathematics and Business Analytics as minors. 
 
 Worked with data models and machine learning, where I have developed predictive models and completed data pipelines from start to manage and gather data from academic projects, internship work experience, and industry. 
