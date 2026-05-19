@@ -11,7 +11,7 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 
 <div align="center">
 
-***Fun Facts: Sports, Gym, Hiking***
+<ins>***Fun Facts: Sports, Gym, Hiking***</ins>
 
 </div>
 
