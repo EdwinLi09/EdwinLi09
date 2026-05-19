@@ -30,7 +30,7 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/EdwinLi09/Travelers-Motorcycle-Insurance-Retention-Analysis" width="400">
+      <a href="https://github.com/EdwinLi09/Travelers-Motorcycle-Insurance-Retention-Analysis" width="400"/>
         <img src="https://github.com/user-attachments/assets/bb72b7d7-3846-436d-8009-1aa3a7074eed"/>
         <br/>Travelers Motorcycle Insurance Retention Analysis 
       </a>
