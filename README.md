@@ -40,5 +40,5 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 </table>
 
 
-## Hobbies
+## Fun Facts
 Sports, Gym, Hiking
