@@ -62,5 +62,6 @@ Proficient with Python and SQL and can utilize both to cleanse and prepare large
 
 
 # Contact Information
-- **Email:** li.edwin99@gmail.com
-- **Phone:** 646-961-1558
+**Email:** li.edwin99@gmail.com
+
+**Phone:** 646-961-1558
